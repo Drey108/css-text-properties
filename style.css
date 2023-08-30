@@ -1,0 +1,13 @@
+#html{
+  text-align: center;
+  text-transform: initial;
+  line-height: normal;
+}
+#css{
+  text-align: justify;
+  color: red;
+}
+#js{
+  color: green;
+  text-transform: capitalize;
+}
